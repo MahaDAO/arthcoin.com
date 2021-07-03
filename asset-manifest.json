@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.5d5e6af4.chunk.css",
-    "main.js": "/static/js/main.76f8f592.chunk.js",
-    "main.js.map": "/static/js/main.76f8f592.chunk.js.map",
+    "main.css": "/static/css/main.1732edd3.chunk.css",
+    "main.js": "/static/js/main.1d958b42.chunk.js",
+    "main.js.map": "/static/js/main.1d958b42.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ec4bf452.js",
     "runtime-main.js.map": "/static/js/runtime-main.ec4bf452.js.map",
     "static/js/2.e772ab08.chunk.js": "/static/js/2.e772ab08.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.42dfb43c.chunk.js": "/static/js/3.42dfb43c.chunk.js",
     "static/js/3.42dfb43c.chunk.js.map": "/static/js/3.42dfb43c.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.5d5e6af4.chunk.css.map": "/static/css/main.5d5e6af4.chunk.css.map",
+    "static/css/main.1732edd3.chunk.css.map": "/static/css/main.1732edd3.chunk.css.map",
     "static/js/2.e772ab08.chunk.js.LICENSE.txt": "/static/js/2.e772ab08.chunk.js.LICENSE.txt",
     "static/media/ARTH-bg.1f14ec41.svg": "/static/media/ARTH-bg.1f14ec41.svg",
     "static/media/Cross-borader transactions.963f8422.svg": "/static/media/Cross-borader transactions.963f8422.svg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.ec4bf452.js",
     "static/js/2.e772ab08.chunk.js",
-    "static/css/main.5d5e6af4.chunk.css",
-    "static/js/main.76f8f592.chunk.js"
+    "static/css/main.1732edd3.chunk.css",
+    "static/js/main.1d958b42.chunk.js"
   ]
 }
